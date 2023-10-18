@@ -1,0 +1,46 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.form-goup{
+    margin: 0 auto 1.25rem auto;
+    padding: 0.25rem;
+}
+
+div{
+    display: block;
+
+}
+
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 1.4;
+    color: white;
+    margin: 0;
+}
+
+#survey-form{
+    justify-content: center;
+}
+
+.container{
+    background-color: coral;
+}
+
+label, input{
+    margin-top: 10px;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+input:checked{
+    color: violet;
+}
+
+
+
